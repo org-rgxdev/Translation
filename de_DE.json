@@ -2,7 +2,7 @@
   "auth": {
     "register": {
       "create_account": "Erstelle deinen Account"
-    }
+    },
     "login": {
       "title": "Logge dich in deinen Account ein",
       "left-title": "Willkommen zurück",
