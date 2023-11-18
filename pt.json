@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "register": {
+      "create_account": "Crie sua conta"
+    },
+    "login": {
+      "title": "",
+      "left-title": "",
+      "left-text": ""
+    }
+  }
+}

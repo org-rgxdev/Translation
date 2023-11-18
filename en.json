@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "register": {
+      "create_account": "Create your account"
+    },
+    "login": {
+      "title": "Log in to your account",
+      "left-title": "Welcome back",
+      "left-text": "Log in to your account here to access all of your content"
+    }
+  }
+}
