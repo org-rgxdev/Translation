@@ -1,7 +1,7 @@
 {
   "auth": {
     "register": {
-      "create_account": "Create your account"
+      "create_account": "Erstelle deinen Account"
     }
   }
 }
