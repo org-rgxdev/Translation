@@ -3,5 +3,10 @@
     "register": {
       "create_account": "Erstelle deinen Account"
     }
+    "login": {
+      "title": "Logge dich in deinen Account ein",
+      "left-title": "Willkommen zurück",
+      "left-text": "Logge dich hier in deinen Account ein, um Zugriff auf all deine Inhalte zu bekommen"
+    }
   }
 }
